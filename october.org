@@ -1,0 +1,73 @@
+#+title: October
+
+* Villarreal v. Texas // https://www.scotusblog.com/cases/case-files/villarreal-v-texas/
+- Villarreal was on trial for murder in Texas. During his testimony the court ran out of time and decided to recesss and continue Villarreal's testimony the next day. The Judge instructed the lawyers to avoid confering with Villarreal about his testimony and tried to walk the line by assuring Villareal he could talk with his lawyers about other matters.
+- Villarreal lost at trial and appealed based on a 6th amendment violation of his right to effective council. The Texas Court of Appeals (1st appeal) affirmed the restriction over a dissent and the Court of Criminal Appeals (2nd appeal) did the same.
+- The restriction falls between precedent set in Perry v. Leeke (allowing a 15 minute no-confferal order) and Geders v. US (finding that an overnight no-confferal order violates the 6th amendment).
+- I don't know what to make of the court's interest in not allowing a defendant to discuss his testimony during a recess. The dissents note that the restriction in place was quite broad; not being able to discuss the defendants testimony about his alleged murder doesn't leave much of substance in a murder trial. This is quite a clean case but the area between Geders and Perry is small.
+** OA
+- sounding like a 9-0 upholding the restriction.
+- There is space between Texas' position and the SG who would allow even more expansive restrictions.
+
+* Berk v. Choy // https://www.scotusblog.com/cases/case-files/berk-v-choy/
+- Berk broke his leg and sought care under Dr. Choy in Delaware. Berk sued Choy and his hospital for malpractice in federal court. Delaware law requires a signed affidavit of merit by an expert witness. Under the Erie doctrine, “a federal court sitting in diversity must apply substantive state law and federal procedural law.”
+- Defendants claim that the court must apply the affidavit requirement because it is a substantive state law. Berk claims that this requirement conflicts with the FRCP and so cannot apply. Berk argues that rules 8 and 9 lay out the general and special rules for pleading and the Delaware law creates a contrary, more demanding requirement.
+- The 3rd circuit, upholding the dismissal in favor of Choy, found that the Delaware law required a separately filed affidavit, which is not a pleading, and so is not contradicted by the rules on pleadings.
+- I think there are some logic problems to reading the FCRP as providing a maxmimum barrier to pleading. If states can't make it harder to plead a case could states make it easier to plead? If they can't do either then what "substantive state law" could possibly be applied?
+** OA
+- Plaintiff is setting up a very narrow ruling where this law is part of a comprehensive procedure for these cases. It wouldn't make sense to pick out one part and include it in the federal rules.
+
+* Barrett v. US // https://www.scotusblog.com/2025/10/justices-to-apply-double-jeopardy-principles-to-federal-firearm-offense/
+- Barrett committed several armed robberies. During one, one of his coconspirators shot and killed a victim. in 2013 Barrett was convicted of a number of crimes including using a firearm to advance a violent or drug trafficking crime.
+- Barrett argued that he cannot be punished for both the 924(c) firearms charge and the 924(j) murder with a firearm charge. Such a sentence violates the double jeopardy clause of the 5th amendment.
+- In Blockburger v. US the supreme court found that two statutory violations can be two offenses when each "requires proof of a fact which the other does not." However Blockburger can be overcome with clear legislative intent.
+- 924(c)(1)(D)(ii) "no term of imprisonment imposed on a person under this subsection shall run concurrently with any other term of imprisonment imposed on the person [...]"
+- Is that clear enough?
+** OA
+- Lenity mentioned!
+
+
+* Chiles v. Salazar // https://www.scotusblog.com/cases/case-files/chiles-v-salazar/
+- Chiles is a liscenced therapist in Colorado. Chiles works with clients to "reduce or eliminate unwanted sexual attractions"--conversion therapy. In 2019 Colorado passed a law prohibiting mental helath professionals from practicing conversion therapy. Chiles challenged that law as a violation of her 1st amendment right to speak.
+- The district court denied an injunction of the law and the 10th circuit upheld the decision. They found that the law regulated the conduct of a mental health professional which only "incidentally involves speech".
+- The court found that because of the statute regulates professional conduct, is viewpoint neutral and does not impose content-based speech restrictions (yes it does?) it is subject to rational basis review, and survives.
+- A therapist can help a client accept their sexual attractions. A therapist can not help a client "reduce or eliminate" their sexual attractions. This seems pretty content based to me.
+- Chiles argues that because her sole conduct is speech any restriction is a restriction on "pure speech" and therefore subject to strict scrutiny.
+- Probably enough here to have some heightened scrutiny. I expect scotus will say it's not rational basis--try again.
+** OA
+- Chiles wants very narrow rule that applies only to therapy that is entirely speech.
+
+* Bost v. Illinois State Board of Elections // https://www.scotusblog.com/2025/10/when-may-a-candidate-challenge-election-rules-in-federal-court/
+- Michael Bost (Ill. 12th) wants to challenge Illinois election law which states that votes by mail are counted if received up to 14 days after election day and postmarked by election day.
+- The district court found that Bost lacked standing. There is no particularized harm or cost to him.
+- Bost argues that he is injured as the longer time to count votes requires him to employ poll watchers and other observers. Bost also argues that a candidate for office should have standing to challenge the rules that govern their elections--that by running in the election they have a distrinct, particularized and concrete interest in the election's rules. Also standing is too complicated and this would be a lot easier.
+- Scotus isn't gonna go for the blanket rule. They will likely find that expenses related to a continued campaign gives him standing to challenge rules that extend the election.
+
+* US Postal Service v. Konan // https://www.scotusblog.com/cases/case-files/united-states-postal-service-v-konan/
+- Konan maintained rental properties which received mail from USPS. based on her complaint USPS: changed the locks on her multi-family mailbox, refused to deliver mail there, refused to facilitate picking up her mail from the post office, and caused her to lose tenannts and caused the loss of important mail for two years.
+- You can't sue the government because of sovereign immunity. The federal tort claims act (FTCA) waives sovereign immunity for "negligent or wrongful acts or omissions of ther government and its employees in limited circumstances." The FTCA explicitly retains sovereign immunity for "[a]ny claim arising out of the loss, miscarriage, or negligent transmission or letters or postal matter." (postal-matter exception)
+- The district court held that this was loss so USPS is immune. The 5th circuit disagreed: "there was no “loss” of mail because the mail was not destroyed or misplaced by unintentional action".
+- I guess the postal-matter exception specified negligent for "transmission" so you might assume the other things aren't negligent... but... you cannot sue USPS for loss of mail. Sorry!
+
+* Bowe v. US // https://www.scotusblog.com/cases/case-files/bowe-v-united-states/
+- Bowe and three friends robbed an armored van servicing a bank. They didn't get any money but Bowe did shoot the driver. Bowe was sentenced to 24 years in prison for conspiracy to commit Hobbs Act robbery, Attempted Hobbs Act robbery, and using a firearm in furtherance of a crime of violence 18 924(c).
+- Bowe is challenging the 924(c) charge because his wasn't a "crime of violence". Okay... he did some violence, but robbery isn't a "crime of violence". Look! SCOTUS said so right here (https://www.scotusblog.com/cases/case-files/united-states-v-taylor/)
+- But Bowe had already challenged his 924(c) charge before US v. Taylor. In order to bring a "second or successive" habeas petition unless "the claim relies on a new rule of constitutional law". US v. Taylor a decision based on statutory interpretation.
+- Also apparently a rule that only applies to state inmates was applied by the 11th circuit... oops. Now we get a court appointed advocate to get knocked around on that one.
+- Hobbs Act robbery may not be a "crime of violence" but his crime was violent. That seems like it should matter! SCOTUS could also not get there by saying that he doesn't get another Habeas petition. I'm thinking the bad man stays in jail.
+
+* Ellingburg v. US // https://www.scotusblog.com/2025/10/court-to-consider-the-nature-of-restitution/
+- US Const. a1s9c3 "No [...] ex post facto Law shall be passed." This means congress can't pass a law after someone did something wrong and use the new law to punish them. They have to pass the law beforehand. This only applies to criminal laws.
+- Ellingburg was convicted of robbing a bank and under the 1996 Mandator Victims Restitution Act he was required to pay some restitution.
+- Ellingburg argues that this is a criminal punishment and so unconstitutional under the ex post facto clause. It is imposed as part of the criminal sentence, the amount is set by the trial judge, at the end of trial, as part of the sentence. The statute uses criminal procedures. The victims (who get the restitution) have little role and cannot initiate a proceeding. The punishment for failing to pay the restitution is incarceration.
+- The court appointed an amicous to argue in favor of the ruling below.
+
+* Case v. Montana // https://www.scotusblog.com/2025/10/justices-to-consider-circumstances-in-which-police-may-enter-a-home-during-an-emergency/
+- Case called his girlfriend while drinking and threatening suicide. Case had a handgun and threatened harm to responding officers. His girlfriend told the police and met the police outside Case's house. Officers did not consider obtaining a warrant. Officers called their chief for help who arrived 30 minutes after them. Case did not respond to knocks on the doors or calls from outside. The officers walked in the unlocked front door, announcing themselves. When the first officer saw Case they saw a "dark object" and shot him in the abdomen.
+- Case is being charged with Assault on a Peace Officer. Case is moving to suppress evidence obtained in the search of his home. SCOTUS found in Brigham City v. Stuart that no warrant is required to enter a home if police "have an objectively reasonable basis for believing that an occupant is seriously injured or imminently threatened with such injury". The trial court ruled that the officers met that burden, the Montana Supreme Court upheld that decision.
+- Case argues this "objectively reasonable basis" should be equivilant to probable cause.
+- 4th amendment says "unreasonable" and "reasonable suspicision" does have the word "reasonable" in it. But that's very dumb. The standard to for searching someone's house is probable cause.
+
+* Louisiana v. Callais // https://www.scotusblog.com/cases/case-files/louisiana-v-callais-2/
+- In 2022 Louisiana redrew their congressional districts. That map was challenged by black voters as violating the VRA. The court agreed and ordered Louisiana to draw a map with another majority-black district. In 2024 Louisiana drew a new map with two majority-black districts. This map is being challenged by non-African American voters as violating the equal protection clause. The court agreed and ordered the state not to use that map in 2024 until SCOTUS stayed that decision pending appeal.
+- It's the same case as last term, but again! with feeling!

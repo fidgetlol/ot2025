@@ -1,5 +1,9 @@
 #+title: Emergency
 
+* Noem v Vasquez Perdomo [appealing order C.D.Cal.] // https://www.supremecourt.gov/opinions/24pdf/25a169_5h25.pdf
+- In June the Trump administration began immigration enforcement raids in and around Los Angeles. The District Court enjoined U.S. immigration officers from making investigatives tops based on their (1) presence at a particular locations such as bus stops, car washes, day laborer pickup sites, agricultural sites, and the like; (2) type of work; (3) speaking spanish or english with an accent; and (4) apparent race or ethinicity.
+- Kavanaugh, concurring in the grant, found that: plaintiff's likely lack standing because they have no reason to believe they will be stopped in the future based on the prohibited factors; the supreme court is likely to grant review and likely to overturn the district court; and the four factors combined with the large population of illegal immigrants in the LA area can, when taken together, constitute reasonable suspicion of illegal prsence in the US.
+
 * Department of State v. Aids Vaccine Advocacy Coalition // https://www.supremecourt.gov/opinions/24pdf/25a269_bp7c.pdf
 - The administration moved to impound $4 billion dollars in aid funding. Plaintiffs are recipients of the funding. They brought an APA claim asking the court to order the executive to spend congressionally approriated funds totally $10.5 billion dollars, including the $4 billion the administration is seeking to impound.
 - The DDC ordered defendants to: not implement any of their terminations, suspension, or stop-work orders; not withold payments for work completed; not "unlawfully impound[] congressionally appropriated foreign aid funds"; and they must spend the full amount of fund appropriated by congress.

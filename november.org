@@ -16,10 +16,15 @@
 
 * Coney Island Auto Parts v Burton // https://www.scotusblog.com/2025/10/is-there-a-time-limit-on-vacating-a-void-judgment/
 - Vista-Pro Automotive (Burton) was going through bankruptcy and in related proceedings sued Coney Island Auto Parts for unpaid invoices. Coney Island Auto Parts didn't respond to the complaint and so Burton was awarded a default judgement. Burton tried to collect on that judgement for 5 years. Burton got a hold placed on their bank account in New York and then Coney Island Auto Parts challenged the judgement. New York kicked them back to Tennessee and Tennessee said the motion wasn't timely... it *has* been 7 years.
-- frcp 60(b)(1) "A motion under Rule 60(b) must be made within a reasonable time".
+- frcp 60(c)(1) "A motion under Rule 60(b) must be made within a reasonable time".
 - Coney Island Auto Parts is asking for no time limit on challenging its judgement. "Coney Island also contends that it would not sow chaos to grant defendants an unlimited amount of time to challenge judgments as void." They also claim that this is the rule adopted by most circuits. And this would only take effect if the judgement is void. Do you *want* bad judgements to be enforced? huh?
 - Burton argues that the rules say what they say; seven years is unreasonable; all sorts of statutes have time limits; and time limits are good for speed and finality.
-- If I had more time I'd read why (if?) other circuits have no time limit. that seems unreasonable. Time limits are good! Pay up!
+- If I had more time I'd read why (if?) other circuits have no time limit. That seems unreasonable. Time limits are good! Pay up!
+** opinion // https://www.supremecourt.gov/opinions/25pdf/24-808_lkgn.pdf
+- Alito, writing for a unanimous court, holds that the reasonable time requirement applies to this rule 60(b) motion. Rule 60(c)(1) requires that rule 60(b) motions "must be made within a reasonable time". A motion for releif from a void judgement is a rule 60(b) motion. Motions for the releif from a void judgement must be made within a reasonable time. QED.
+- Alito agrees that "several Courts of Appeals, and a prominent treatise" found otherwise. "These authorities acknowledge that their interpretation clashes with Rule 60’s text." The clash is over; the text won.
+- Alito finally finds that any Due Process or historical practice complaints cannot carry an alternative finding. When the text is clear interpretive tools cannot weigh on the meaning.
+- Sotomayor in a concurance disagrees with making any finding related to the Due Process clause.
 
 * The Hain Celestial Group v Palmquist // https://www.scotusblog.com/2025/10/justices-to-consider-diversity-jurisdiction-procedural-problems-and-baby-food/
 - Palmquist claims the baby food she bought was tainted with heavy metals. She sued Whole Foods (The retailer) and The Hain Celestial Group (The manufacturer). Palmquist and Whole Foods are based in Texas and Hain isn't so Hain moved to remove the case to federal court under diversity jurisdiction. The federal judge dismissed the claim against Whole Foods and they had a trial. Palmquist won and now wants to appeal the dismissal against Whole Foods. Whole Foods argues that if they were part of the case then it shouldn't be removed to federal court because they're from Texas so if they want to sue they need a new trial in state court.

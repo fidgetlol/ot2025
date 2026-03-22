@@ -1,6 +1,9 @@
 #+title: March
 
 * Watson v Republican National Committee // https://www.scotusblog.com/cases/case-files/watson-v-republican-national-committee/
+- Mississippi (Michael Watson is the Secretary of State of Mississippi) law allows election ballots to be recieved up to five days after election day and still be counted. The RNC don't like that one bit. The RNC went to the S.D.MS to challenge the law. The District Court upheld the law. The 5th circuit then reversed and denied an en banc rehearing. Now Mississippi is asking SCOTUS to reverse the 5th circuit.
+- Mississippi argues that election day is the day voters make their choice. The voter chooses by casting his ballot, not by his ballot being received. Congress may set a ballot-receipt deadline, but they did not do so in the election day statutes. Most states allow post-election receipt. States allowed post-election receipt for 165 years.
+- The RNC argues that election day is "the day by which ballots must be both cast by voters and received by state officials." Mail ballots cannot be "final" before they are received because the sender can recall the mail for a time. Historical laws allowing for post-election receipt of ballots are rare and short-lived. Laws which effectively consumate the election before election day conflict with federal statute(Foster v Love); post-election receipt effectively consumates the election after election day. Federal law doesn't authorize post-election receipt even when providing for absentee voting.
 
 * Keathley v Buddy Ayers Construction // https://www.scotusblog.com/cases/case-files/keathley-v-buddy-ayers-construction-inc/
 

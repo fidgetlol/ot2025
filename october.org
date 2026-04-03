@@ -45,6 +45,11 @@
 - Probably enough here to have some heightened scrutiny. I expect scotus will say it's not rational basis--try again.
 ** OA
 - Chiles wants very narrow rule that applies only to therapy that is entirely speech.
+** opinion // https://www.supremecourt.gov/opinions/25pdf/24-539_fd9g.pdf
+- Gorsuch, joined by all but Jackson, finds that enforcing this law against a talk therapist regulates speach and is viewpoint discrimination. The court below err'd in applying rational basis review to regulation of talk therapy. Wearing clothes that carry an offensive message (Cohen) is first-amendment protected speech. Providing legal advice to foreign terrorist organizations (Holder) is first-amendment protected speech. Required statements by crisis pregnancy centers (NIFLA) is first-amendment protected speech. The government cannot sneak in content-based speech restrictions by calling them professional conduct or liscencing requirements.
+- Chiles' speech is subject to Colorado's law. Under that law Chiles may affirm those who are content with their sexual identity, but may not attempt to change their sexual identity. This is a content-based restriction on Chiles' speech.
+- Colorado's law does not incidentally restrict speech. For Chiles the only thing being regulated is speech. And the speech restriction cannot be incidental when it depends on the content of the speech.
+- Kagan, joined by Sotomayor, writes separately to consider analogous viewpoint-neutral laws. She mentions that medical care typically involves speech and the regulations will generally reach the content of that speech.
 
 * Bost v. Illinois State Board of Elections // https://www.scotusblog.com/2025/10/when-may-a-candidate-challenge-election-rules-in-federal-court/
 - Michael Bost (Ill. 12th) wants to challenge Illinois election law which states that votes by mail are counted if received up to 14 days after election day and postmarked by election day.

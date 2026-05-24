@@ -56,6 +56,11 @@
 - The State (Hamm is Alabama's Commissioner of Dept. of Corrections) argues that there's no uniformity in how different states consider multiple scores. In any case a single score of 78 should foreclose a finding of intellectual disability. The court should have a presumption in favor of the sentence because psychaiatry does not yield definite rigorous results.
 - Smith argues that in light of unclear IQ tests additional context becomes even more important. The lower courts correctly looked at school records, medical records, behavior, personal history, and other psychiatric tests to find that Smith is intellectually disabled.
 - 72 is greater than 70, bang the gavel PepeMods .
+** opinion // https://www.supremecourt.gov/opinions/25pdf/24-872_ec8f.pdf
+- PC: DIGed
+- Sotomayor concurrs, arguing that states and lower courts should have flexibility in how to determine intellectual disability under Atkins. Absent a circuit split SCOTUS's guidence isn't needed. And this is a poor vehicle for determining guidence.
+- Thomas dissents, arguing that Atkins isn't supported by the text of the 8th amendment and so should be overturned.
+- Alito dissents, arguing that Atkins has proven unworkable and the court must provide more guidence.
 
 * FS Credit Opportunities Corp. (The Fund) v Saba Capital Master Fund Ltd. (The Investors) // https://www.scotusblog.com/cases/case-files/fs-credit-opportunities-corp-v-saba-capital-master-fund-ltd/
 - FS Credit has a provision limiting voting to shareholders unless approved by 2/3rds of shareholders. Saba sued FS Credit alledging that this violates the Investment Company Act. The ICA states that all new stock must be voting and have equal voting rights to all other outstanding stock. The district court for SDNY granted summary judgement in favor of Saba and the CA2 affirmed. FS Credit is appealing to SCOTUS arguing that the ICA does not provide such a private right of action.
